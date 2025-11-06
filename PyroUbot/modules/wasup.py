@@ -27,10 +27,11 @@ async def free_trial_callback(client, callback_query):
         user_id,
         f"""
 <blockquote><b>
-❏ ɪɴꜰᴏʀᴍᴀꜱɪ
+❏ ɪɴꜰᴏʀᴍᴀꜱɪ ʙᴏᴛ👑
 ├ ᴏᴡɴᴇʀ : @kingofudin
 ├ ᴄʜᴀɴɴᴇʟ ꜱᴜᴘᴘᴏʀᴛ : @udiens123
-╰ ɢʀᴜᴘ ꜱᴜᴘᴘᴏʀᴛ : @yamazzakki</b></blockquote>
+╰ ɢʀᴜᴘ ꜱᴜᴘᴘᴏʀᴛ : @yamazzakki
+ʙᴏᴛ ɪɴɪ ᴅɪʙᴜᴀᴛ ᴘᴀᴅᴀ ᴛᴀɴɢɢᴀʟ 01 ɴᴏᴠᴇᴍʙᴇʀ 2025.</b></blockquote>
 𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘣𝘰𝘵 𝘣𝘺 𝕂𝕒𝕚𝕤𝕒𝕣 𝕌𝕕𝕚𝕟👑
 """,
   )
