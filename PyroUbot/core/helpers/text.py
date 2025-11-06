@@ -14,19 +14,18 @@ class MSG:
 
     def START(message):
         return f"""
-<b>halo 👋🏻  <a href=tg://user?id={message.from_user.id}>{message.from_user.first_name} {message.from_user.last_name or ''}</a></b>❕
-<blockquote><b>📚 {bot.me.mention} adalah bot multi client yang dapat membuat userbot dengan sangat mudah.</b>
+<b>Yo Wassap 👋🏻  <a href=tg://user?id={message.from_user.id}>{message.from_user.first_name} {message.from_user.last_name or ''}</a></b>❕
+<blockquote><b>🎉Selamat datang di bot {bot.me.mention}🎉</b>
 
-<b>✨ bot ini di kembangkan oleh: @durov1221, bot ini di rancang untuk memudahkan pengguna telegram untuk mengirim pesan group&user telegram dengan instant, dan memiliki banyak fitur yang berguna lainnya.</b></blockquote>
-<b>👉 silahkan pilih salah satu tombol di bawah ini❗</b>
-<b>- jika ada kendala silahkan hubungi pengembang.</b>"""
+<b>✨ Bot ini dirancang untuk mempermudah pengguna dengan berbagai fitur.</b></blockquote>
+𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘣𝘰𝘵 𝘣𝘺 𝕂𝕒𝕚𝕤𝕒𝕣 𝕌𝕕𝕚𝕟👑"""
 
     def TEXT_PAYMENT(harga, total, bulan):
         return f"""
 <blockquote><b>💬 sɪʟᴀʜᴋᴀɴ ᴍᴇʟᴀᴋᴜᴋᴀɴ ᴘᴇᴍʙᴀʏᴀʀᴀɴ ᴛᴇʀʟᴇʙɪʜ ᴅᴀʜᴜʟᴜ</b> 
 
-silahkan chat owner saya
-OWNER BOT : <a href=tg://openmessage?user_id={OWNER_ID}>@durov1221</a> 
+silahkan chat owner
+OWNER BOT : <a href=tg://openmessage?user_id={OWNER_ID}>@kingofudin</a> 
 
 <b>🛍 ᴋʟɪᴋ ᴛᴏᴍʙᴏʟ ᴋᴏɴꜰɪʀᴍᴀsɪ ᴜɴᴛᴜᴋ ᴋɪʀɪᴍ ʙᴜᴋᴛɪ ᴘᴇᴍʙᴀʏᴀʀᴀɴ ᴀɴᴅᴀ</b></blockquote>
 """
