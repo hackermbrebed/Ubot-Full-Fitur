@@ -135,28 +135,28 @@ class BTN:
         if not message.from_user.id == OWNER_ID:
             button = [
                 [
-                 InlineKeyboardButton("ʙᴇʟɪ ᴜsᴇʀʙᴏᴛ", callback_data="bahan"),
+                 InlineKeyboardButton("ʙᴇʟɪ ᴜsᴇʀʙᴏᴛ💰", callback_data="bahan"),
                 ], 
                 [
-                    InlineKeyboardButton("ʙᴜᴀᴛ ᴜsᴇʀʙᴏᴛ", callback_data="buat_ubot"),
-                    InlineKeyboardButton("ʟɪᴀᴛ ᴠɪᴛᴜʀ", callback_data="help_back")
+                    InlineKeyboardButton("ʙᴜᴀᴛ ᴜsᴇʀʙᴏᴛ🔥", callback_data="buat_ubot"),
+                    InlineKeyboardButton("ʟɪᴀᴛ ᴠɪᴛᴜʀ✨", callback_data="help_back")
                 ],
                 [
-                 InlineKeyboardButton("ɪɴꜰᴏʀᴍᴀꜱɪ ʙᴏᴛ", callback_data="informasi_ubot"),
+                 InlineKeyboardButton("ɪɴꜰᴏʀᴍᴀꜱɪ ʙᴏᴛ🤖", callback_data="informasi_ubot"),
                 ],
-                [InlineKeyboardButton("ᴛʀɪᴀʟ ᴜsᴇʀʙᴏᴛ", callback_data="trial_ubot")]
+                [InlineKeyboardButton("ᴛʀɪᴀʟ ᴜsᴇʀʙᴏᴛ🗿", callback_data="trial_ubot")]
             ]
         else:
             button = [
                 [
-                 InlineKeyboardButton("ᴍᴜʟᴀɪ ʙᴜᴀᴛ ᴜsᴇʀʙᴏᴛ", callback_data="bahan"),
-                 InlineKeyboardButton("ɪɴꜰᴏʀᴍᴀꜱɪ ʙᴏᴛ", callback_data="informasi_ubot")
+                 InlineKeyboardButton("ᴍᴜʟᴀɪ ʙᴜᴀᴛ ᴜsᴇʀʙᴏᴛ🔥", callback_data="bahan"),
+                 InlineKeyboardButton("ɪɴꜰᴏʀᴍᴀꜱɪ ʙᴏᴛ🤖", callback_data="informasi_ubot")
                 ],
                 [
-                    InlineKeyboardButton("ʀᴇsᴛᴀʀᴛ", callback_data="cb_restart")
+                    InlineKeyboardButton("ʀᴇsᴛᴀʀᴛ🔄", callback_data="cb_restart")
                 ],
                 [
-                    InlineKeyboardButton("ᴄᴇᴋ ᴠɪᴛᴜʀ", callback_data="help_back")
+                    InlineKeyboardButton("ᴄᴇᴋ ᴠɪᴛᴜʀ✨", callback_data="help_back")
                 ]
             ]
         return button
