@@ -1,11 +1,8 @@
 MODULE = "Tqto"
 HELP = """
 <blockquote> 
-<b>Kaizen banteng</b>
- <b>Not faund</b>
-<b>Cheel</b>
-<b> kynan</b>
-<b>Team temali</b>
-<b>Tmc parel</b>
-<b>Tmc sugamek</b></blockquote>
+<b>Kaisar YouDin</b>
+<b>My Ortu</b>
+<b>My Family</b>
+<b>My Friend</b></blockquote>
 """
