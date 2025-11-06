@@ -142,7 +142,7 @@ class BTN:
                     InlineKeyboardButton("ʟɪᴀᴛ ᴠɪᴛᴜʀ", callback_data="help_back")
                 ],
                 [
-                 InlineKeyboardButton("ɪɴғᴏʀᴍᴀsɪ ᴛᴇɴᴛᴀɴɢ ʙᴏᴛ", callback_data="informasi_ubot"),
+                 InlineKeyboardButton("ɪɴꜰᴏʀᴍᴀꜱɪ ʙᴏᴛ", callback_data="informasi_ubot"),
                 ],
                 [InlineKeyboardButton("ᴛʀɪᴀʟ ᴜsᴇʀʙᴏᴛ", callback_data="trial_ubot")]
             ]
@@ -150,14 +150,12 @@ class BTN:
             button = [
                 [
                  InlineKeyboardButton("ᴍᴜʟᴀɪ ʙᴜᴀᴛ ᴜsᴇʀʙᴏᴛ", callback_data="bahan"),
-                 InlineKeyboardButton("ɪɴғᴏʀᴍᴀsɪ ᴛᴇɴᴛᴀɴɢ ʙᴏᴛ", callback_data="informasi_ubot")
+                 InlineKeyboardButton("ɪɴꜰᴏʀᴍᴀꜱɪ ʙᴏᴛ", callback_data="informasi_ubot")
                 ],
                 [
-                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", callback_data="cb_gitpull"),
                     InlineKeyboardButton("ʀᴇsᴛᴀʀᴛ", callback_data="cb_restart")
                 ],
                 [
-                    InlineKeyboardButton("ʟɪsᴛ ᴜsᴇʀ", callback_data="cek_ubot"),
                     InlineKeyboardButton("ᴄᴇᴋ ᴠɪᴛᴜʀ", callback_data="help_back")
                 ]
             ]
