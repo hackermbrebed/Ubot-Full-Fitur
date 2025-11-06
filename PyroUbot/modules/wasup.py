@@ -27,7 +27,7 @@ async def free_trial_callback(client, callback_query):
         user_id,
         f"""
 <blockquote><b>
-❏ ɪɴꜰᴏʀᴍᴀꜱɪ ʙᴏᴛ👑
+❏ ɪɴꜰᴏʀᴍᴀꜱɪ ʙᴏᴛ🤖
 ├ ᴏᴡɴᴇʀ : @kingofudin
 ├ ᴄʜᴀɴɴᴇʟ ꜱᴜᴘᴘᴏʀᴛ : @udiens123
 ╰ ɢʀᴜᴘ ꜱᴜᴘᴘᴏʀᴛ : @yamazzakki
