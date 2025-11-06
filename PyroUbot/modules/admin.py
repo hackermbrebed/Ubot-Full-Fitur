@@ -42,7 +42,7 @@ __HELP__ = """
 ᚗ <code>{0}lock webprev</code> 
 ᚗ <code>{0}lock stickers</code></b></blockquote>
 
-<b>🤖IPANUSERBOT</b>
+𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘣𝘰𝘵 𝘣𝘺 𝕂𝕒𝕚𝕤𝕒𝕣 𝕌𝕕𝕚𝕟👑
 """
 
 
