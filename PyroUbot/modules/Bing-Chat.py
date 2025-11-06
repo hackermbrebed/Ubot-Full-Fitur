@@ -12,7 +12,7 @@ __HELP__ = """
 perintah : <code>{0}bing</code>
     dapat mencari informasi terbaru dari web, Membantu dengan tugas produktivitas, Membantu dengan tugas produktivitas Seperti membuat daftar ,mengatur jadwal bisa merekomendasikan: wisata,buku,film dll</b></blockquote>
 
-    <b>🤖IPANUSERBOT</b>
+    𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘣𝘰𝘵 𝘣𝘺 𝕂𝕒𝕚𝕤𝕒𝕣 𝕌𝕕𝕚𝕟👑
 """
 
 
