@@ -21,7 +21,7 @@ __HELP__ = """
 ᚗ <code>{0}alquran 1 2</code>
 ᚗ Maka hasilnya Surah Al-Fatihah Ayat 2</blockquote></b>
 
-<b>🤖IPANUSERBOT</b>
+𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘣𝘰𝘵 𝘣𝘺 𝕂𝕒𝕚𝕤𝕒𝕣 𝕌𝕕𝕚𝕟👑
 """
 
 @PY.UBOT("absen")
