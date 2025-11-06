@@ -11,7 +11,7 @@ __HELP__ = f"""
 <blockquote><b>⎆ perintah:</b> <code>.adzan</code> [nama kota]
 <b>ᚗ penjelasan:</b> Untuk mengetahui waktu adzan.</blockquote>
 
-<b>🤖IPANUSERBOT</b>
+𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘣𝘰𝘵 𝘣𝘺 𝕂𝕒𝕚𝕤𝕒𝕣 𝕌𝕕𝕚𝕟👑
 """
 
 @PY.UBOT("adzan")
